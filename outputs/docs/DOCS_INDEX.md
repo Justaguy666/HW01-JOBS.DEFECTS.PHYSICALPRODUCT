@@ -3,8 +3,8 @@
 ## Status
 
 IS AI-GENERATED: YES (Codex-assisted draft)
-REVIEWED: no (pending human review)
-ACCEPTED: no (pending human acceptance)
+REVIEWED: yes (12AM:40 31/05/2026 - Khoi Minh Nguyen)
+ACCEPTED: yes (12AM:44 31/05/2026 - Khoi Minh Nguyen)
 
 ---
 
@@ -106,7 +106,7 @@ CHECKLIST.md
 * Put reusable structures in `templates`
 * Put process steps in `workflows`
 * Put naming, status, and evidence rules in `conventions`
-* Mark AI-assisted drafts as pending human review until checked
+* Mark AI-assisted drafts as reviewed only after a human check is complete
 
 ---
 

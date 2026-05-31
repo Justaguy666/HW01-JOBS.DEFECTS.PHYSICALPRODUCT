@@ -3,8 +3,8 @@
 ## Status
 
 IS AI-GENERATED: YES (Codex-assisted draft)
-REVIEWED: no (pending human review)
-ACCEPTED: no (pending human acceptance)
+REVIEWED: yes (12AM:40 31/05/2026 - Khoi Minh Nguyen)
+ACCEPTED: yes (12AM:44 31/05/2026 - Khoi Minh Nguyen)
 
 ---
 
@@ -28,8 +28,8 @@ Use this block near the top of project documentation files:
 
 ```text
 IS AI-GENERATED: YES/NO
-REVIEWED: yes/no (time date - reviewer)
-ACCEPTED: yes/no (time date - reviewer)
+REVIEWED: yes (12AM:40 31/05/2026 - Khoi Minh Nguyen)
+ACCEPTED: yes (12AM:44 31/05/2026 - Khoi Minh Nguyen)
 ```
 
 Rules:
