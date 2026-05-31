@@ -1,12 +1,12 @@
-# AI MISTAKES INDEX
+# AI Mistakes Index
 
 ## Status
 
-IS AI-GENERATED: YES (Codex-assisted edit)
+IS AI-GENERATED: NO
 
-REVIEWED: yes (12AM:40 31/05/2026 - Khoi Minh Nguyen)
+REVIEWED: yes (12AM:21 31/05/2026 - Khoi Minh Nguyen)
 
-ACCEPTED: yes (12AM:44 31/05/2026 - Khoi Minh Nguyen)
+ACCEPTED: yes (12AM:21 31/05/2026 - Khoi Minh Nguyen)
 
 ---
 
@@ -27,46 +27,46 @@ Goals:
 ## Observation Registry
 
 | ID | Type | Related Requirement | Related Artifact | Severity | Status | Notes |
-| --- | --- | --- | --- | --- | --- | --- |
-| AI-OBS-001 | FALSE_ASSUMPTION | Project organization / AI compliance | outputs folder structure review | MEDIUM | VERIFIED | AI gave an overly soft readiness verdict even though evidence storage was still missing |
+| ---------- | ---------------- | -------------------- | ---------------- | -------- | -------- | ----------------------------------------------------------------------------------------- |
+| AI-OBS-001 | FALSE_ASSUMPTION | Project organization | | MEDIUM | VERIFIED | AI focused git history without checking the current stage of project leading to response |
 
 ---
 
 ## Mistake Type Definitions
 
-| Type | Meaning |
-| --- | --- |
-| HALLUCINATION | AI generated unsupported or false information |
-| MISSED_EDGE_CASE | Important edge case not identified |
-| INCORRECT_REASONING | Logical analysis is flawed |
-| OVERGENERALIZATION | Output too generic or shallow |
-| FALSE_ASSUMPTION | Incorrect assumptions about context |
-| WEAK_SEVERITY_ANALYSIS | Severity assessment is inaccurate |
-| CONTEXT_IGNORANCE | Important real-world context ignored |
-| FAKE_REFERENCE | Fabricated or unverifiable reference |
-| SHALLOW_ANALYSIS | Analysis lacks depth |
-| UNSAFE_SUGGESTION | Potentially unsafe recommendation |
+| Type                   | Meaning                                       |
+| ---------------------- | --------------------------------------------- |
+| HALLUCINATION          | AI generated unsupported or false information |
+| MISSED_EDGE_CASE       | Important edge case not identified            |
+| INCORRECT_REASONING    | Logical analysis is flawed                    |
+| OVERGENERALIZATION     | Output too generic or shallow                 |
+| FALSE_ASSUMPTION       | Incorrect assumptions about context           |
+| WEAK_SEVERITY_ANALYSIS | Severity assessment is inaccurate             |
+| CONTEXT_IGNORANCE      | Important real-world context ignored          |
+| FAKE_REFERENCE         | Fabricated or unverifiable reference          |
+| SHALLOW_ANALYSIS       | Analysis lacks depth                          |
+| UNSAFE_SUGGESTION      | Potentially unsafe recommendation             |
 
 ---
 
 ## Severity Definitions
 
-| Severity | Meaning |
-| --- | --- |
-| LOW | Minor quality issue |
-| MEDIUM | Misleading or incomplete reasoning |
-| HIGH | Strong impact on testing quality or analysis |
+| Severity | Meaning                                          |
+| -------- | ------------------------------------------------ |
+| LOW      | Minor quality issue                              |
+| MEDIUM   | Misleading or incomplete reasoning               |
+| HIGH     | Strong impact on testing quality or analysis     |
 | CRITICAL | May cause invalid conclusions or unsafe behavior |
 
 ---
 
 ## Status Definitions
 
-| Status | Meaning |
-| --- | --- |
-| TODO | Observation not fully analyzed |
-| REVIEWED | Human review completed |
-| VERIFIED | Confirmed and corrected |
+| Status   | Meaning                                    |
+| -------- | ------------------------------------------ |
+| TODO     | Observation not fully analyzed             |
+| REVIEWED | Human review completed                     |
+| VERIFIED | Confirmed and corrected                    |
 | RESOLVED | Correction integrated into final artifacts |
 
 ---
@@ -93,16 +93,16 @@ AI-OBS-003.md
 ## Recommended Workflow
 
 ```text
-AI Draft
-    ->
+AI Output
+    ↓
 Human Review
-    ->
+    ↓
 Issue Detected
-    ->
+    ↓
 Create AI Observation
-    ->
+    ↓
 Human Correction
-    ->
+    ↓
 Update Related Artifact
 ```
 
@@ -118,6 +118,7 @@ AI observations may reference:
 * EV IDs (Evidence)
 * AI Audit Reports
 * AI Critique Sections
+* ...
 
 Examples:
 
