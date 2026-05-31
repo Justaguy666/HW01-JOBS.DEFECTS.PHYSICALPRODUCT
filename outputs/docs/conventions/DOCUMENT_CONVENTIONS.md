@@ -3,7 +3,9 @@
 ## Status
 
 IS AI-GENERATED: YES (Codex-assisted draft)
+
 REVIEWED: yes (12AM:59 31/05/2026 - Khoi Minh Nguyen)
+
 ACCEPTED: yes (01PM:10 31/05/2026 - Khoi Minh Nguyen)
 
 ---
@@ -32,7 +34,9 @@ Most project documentation files should begin with:
 ## Status
 
 IS AI-GENERATED: YES/NO
+
 REVIEWED: yes/no (time date - reviewer)
+
 ACCEPTED: yes/no (time date - reviewer)
 
 ---
