@@ -4,9 +4,9 @@
 
 IS AI-GENERATED: YES (Codex-assisted prompt log)
 
-REVIEWED: yes (1PM:40 - Khoi Nguyen Minh)
+REVIEWED: yes (1PM40 31/05/2026 - Khoi Nguyen Minh)
 
-ACCEPTED: yes (1PM:40 - Khoi Nguyen Minh)
+ACCEPTED: yes (1PM40 31/05/2026 - Khoi Nguyen Minh)
 
 ---
 
@@ -16,8 +16,8 @@ ACCEPTED: yes (1PM:40 - Khoi Nguyen Minh)
 | --- | --- |
 | Prompt ID | PROMPT-004 |
 | Prompt file | `004_apply_commit_rules.md` |
-| Original timestamp | 12AM:08 31/05/2026 |
-| Log timestamp | 12AM:08 31/05/2026 |
+| Original timestamp | 12AM08 31/05/2026 |
+| Log timestamp | 12AM08 31/05/2026 |
 | Prompter | Khoi Minh Nguyen |
 | Responder | Codex |
 | Tool | Codex |

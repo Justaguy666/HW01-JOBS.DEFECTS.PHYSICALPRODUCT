@@ -4,9 +4,9 @@
 
 IS AI-GENERATED: YES (Codex-assisted prompt log)
 
-REVIEWED: yes (1PM:40 - Khoi Nguyen Minh)
+REVIEWED: yes (1PM40 31/05/2026 - Khoi Nguyen Minh)
 
-ACCEPTED: yes (1PM:40 - Khoi Nguyen Minh)
+ACCEPTED: yes (1PM40 31/05/2026 - Khoi Nguyen Minh)
 
 ---
 
@@ -16,8 +16,8 @@ ACCEPTED: yes (1PM:40 - Khoi Nguyen Minh)
 | --- | --- |
 | Prompt ID | PROMPT-009 |
 | Prompt file | `009_accept_generated_docs_second_batch.md` |
-| Original timestamp | 1PM:11 31/05/2026 |
-| Log timestamp | 1PM:11 31/05/2026 |
+| Original timestamp | 1PM11 31/05/2026 |
+| Log timestamp | 1PM11 31/05/2026 |
 | Prompter | Khoi Minh Nguyen |
 | Responder | Codex |
 | Tool | Codex |
@@ -31,8 +31,8 @@ ACCEPTED: yes (1PM:40 - Khoi Nguyen Minh)
 ```text
 i have just reviewed pending-review generated contents and accept all of them, update all above documentations as
 
-REVIEWED: yes (12AM:59 31/05/2026 - Khoi Minh Nguyen)  
-ACCEPTED: yes (01PM:10 31/05/2026 - Khoi Minh Nguyen)
+REVIEWED: yes (12AM59 31/05/2026 - Khoi Minh Nguyen)  
+ACCEPTED: yes (01PM10 31/05/2026 - Khoi Minh Nguyen)
 ```
 
 ---
@@ -49,8 +49,8 @@ Done. I updated all docs that were still marked pending review/acceptance:
 They now use:
 
 ```text
-REVIEWED: yes (12AM:59 31/05/2026 - Khoi Minh Nguyen)
-ACCEPTED: yes (01PM:10 31/05/2026 - Khoi Minh Nguyen)
+REVIEWED: yes (12AM59 31/05/2026 - Khoi Minh Nguyen)
+ACCEPTED: yes (01PM10 31/05/2026 - Khoi Minh Nguyen)
 ```
 
 Verified: no `REVIEWED: no`, `ACCEPTED: no`, or pending review/acceptance markers remain under `outputs/docs`.

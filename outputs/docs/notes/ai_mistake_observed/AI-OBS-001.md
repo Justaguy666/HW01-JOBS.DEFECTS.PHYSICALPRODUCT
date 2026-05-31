@@ -4,9 +4,9 @@
 
 IS AI-GENERATED: YES (Codex-assisted draft)
 
-REVIEWED: yes (12AM:40 31/05/2026 - Khoi Minh Nguyen)
+REVIEWED: yes (12AM40 31/05/2026 - Khoi Minh Nguyen)
 
-ACCEPTED: yes (12AM:44 31/05/2026 - Khoi Minh Nguyen)
+ACCEPTED: yes (12AM44 31/05/2026 - Khoi Minh Nguyen)
 
 ---
 
@@ -16,7 +16,7 @@ ACCEPTED: yes (12AM:44 31/05/2026 - Khoi Minh Nguyen)
 | --- | --- |
 | Observation ID | AI-OBS-001 |
 | Date observed | 2026-05-31 |
-| Time observed | 11AM:20 |
+| Time observed | 11AM20 |
 | Observer | Khoi Minh Nguyen |
 | AI tool | Codex |
 | Related requirement | Project organization / AI compliance |

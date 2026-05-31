@@ -4,9 +4,9 @@
 
 IS AI-GENERATED: YES (Codex-assisted draft)
 
-REVIEWED: yes (12AM:40 31/05/2026 - Khoi Minh Nguyen)
+REVIEWED: yes (12AM40 31/05/2026 - Khoi Minh Nguyen)
 
-ACCEPTED: yes (12AM:44 31/05/2026 - Khoi Minh Nguyen)
+ACCEPTED: yes (12AM44 31/05/2026 - Khoi Minh Nguyen)
 
 ---
 
@@ -30,8 +30,8 @@ Use this block near the top of project documentation files:
 
 ```text
 IS AI-GENERATED: YES/NO
-REVIEWED: yes (12AM:40 31/05/2026 - Khoi Minh Nguyen)
-ACCEPTED: yes (12AM:44 31/05/2026 - Khoi Minh Nguyen)
+REVIEWED: yes (12AM40 31/05/2026 - Khoi Minh Nguyen)
+ACCEPTED: yes (12AM44 31/05/2026 - Khoi Minh Nguyen)
 ```
 
 Rules:
