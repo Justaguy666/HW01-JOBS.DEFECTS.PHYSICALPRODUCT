@@ -10,14 +10,14 @@ Checked against:
 
 ## Summary
 
-The deliverables are not complete yet. Requirement 1, Requirement 2, and most Requirement 3 working files are present, but the final submission package is still missing completed AI compliance content, prompt log, PDF export, and ZIP package. Requirement 3 execution videos are intentionally skipped per `execution_videos/youtube_links.txt`.
+The deliverables are not complete yet. Requirement 1, Requirement 2, Requirement 3 working files, and the prompt log are present, but the final submission package is still missing completed AI compliance content, PDF export, and ZIP package. Requirement 3 execution videos are intentionally skipped per `execution_videos/youtube_links.txt`.
 
 ## Current Triage
 
 | No. | Item | Status | Note |
 | --- | --- | --- | --- |
 | 1 | Main report content | DONE | `reports/main_report.md` has been drafted. |
-| 2 | Prompt log | TODO | `appendix/prompt_log.md` is empty. |
+| 2 | Prompt log | DONE | `appendix/prompt_log.md` contains 36 prompt records with prompt, response, and response time. |
 | 3 | AI-02, AI-03, AI-05 attachments | TODO | `.docx` files are present in `appendix`; content still needs to be filled directly in those files. |
 | 4 | AI critique and AI accuracy ratio | TODO | AI critique should be kept in appendix; main report only references it. |
 | 5 | Requirement 3 execution videos | SKIP | No videos will be provided. Keep the explicit note in `youtube_links.txt`. |
@@ -88,7 +88,7 @@ Remaining checks:
 
 Current state: TODO.
 
-- `appendix/prompt_log.md` is empty.
+- `appendix/prompt_log.md` contains 36 prompt records with prompt, response, and response time.
 - AI Audit Report `.docx` is present as `appendix/[AI-02] - FIT@HCMUS - AI Audit Report_En.docx`, but still needs to be completed directly in the file.
 - AI Disclosure Statement `.docx` is present as `appendix/[AI-03] - FIT@HCMUS - AI Disclosure Form_En.docx`, but still needs to be completed directly in the file.
 - AI Privacy Checklist `.docx` is present as `appendix/[AI-05] - FIT@HCMUS - AI Privacy Checklist_En.docx`, but still needs to be completed directly in the file.
@@ -97,7 +97,6 @@ Current state: TODO.
 
 Remaining work:
 
-- Fill the prompt log for allowed prompts. Do not add the excluded Requirement 3 enrichment prompt because the user explicitly asked not to log it.
 - Complete AI-02, AI-03, and AI-05 directly in the `.docx` files in `appendix`.
 - Add the AI critique and AI accuracy ratio as appendix material; keep only a reference/note in the main report.
 

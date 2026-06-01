@@ -36,7 +36,7 @@ read all the project's inputs carefully and let me know whether the outputs fold
 
 ## Response
 
-**Verdict**
+**Verdict:**
 
 Yes, the `outputs` structure is good enough for you to start working. It already matches the main HW01 shape:
 
@@ -52,7 +52,7 @@ Yes, the `outputs` structure is good enough for you to start working. It already
 
 I checked the inputs: assignment policies, HW01 requirements, AI templates AI01-AI06, the test case `.xls` template, and the checklist `.xlsx`. Structurally, your folders cover the required report, appendices, prompt log/AI forms, job research, defect research, physical-device testing, GitHub evidence, mindmap, and references.
 
-**One Fix Before Heavy Work**
+**One Fix Before Heavy Work:**
 
 Rename this folder:
 
@@ -64,7 +64,7 @@ to something like:
 
 The current spelling could become annoying when you reference it in the report or final package.
 
-**Recommended Minor Additions**
+**Recommended Minor Additions:**
 
 Not required before starting, but useful soon:
 
