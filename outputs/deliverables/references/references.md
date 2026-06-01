@@ -1,11 +1,11 @@
-﻿# References
+# References
 
-Generated from URL scan of outputs/deliverables on 2026-06-02.
+Generated from URL scan of the deliverables ZIP-root contents on 2026-06-02.
 
 Scope:
 
 - Scanned Markdown, text, JSON, and workbook XML inside `.xlsx` files.
-- Excluded `outputs/deliverables/references/references.md` itself to avoid self-recursion.
+- Excluded `references/references.md` itself to avoid self-recursion.
 - URLs are deduplicated and grouped by source folder.
 - Technical Office/OpenXML schema URLs found inside workbook package metadata are excluded.
 
@@ -377,3 +377,4 @@ Total unique URLs: 358
 - <https://shopee.vn/Tai-Nghe-Bluetooth-Bridio-TH10-Cu%E1%BB%99c-G%E1%BB%8Di-HIFI-Ch%E1%BA%A5t-L%C6%B0%E1%BB%A3ng-%C3%A2m-Thanh-Ch%E1%BA%A5t-L%C6%B0%E1%BB%A3ng-Cao-n%E1%BB%95i-gi%E1%BA%A3m-%E1%BB%93n-tho%E1%BA%A3i-m%C3%A1i-BH-12-th%C3%A1ng-i.1176085600.22890578469>
 - <https://shop-vn.tiktok.com/pdp/1730584122605407137>
 - <https://vn.shp.ee/MMd2R2Qx>
+

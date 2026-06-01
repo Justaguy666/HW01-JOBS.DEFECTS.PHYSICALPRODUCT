@@ -1,6 +1,6 @@
 # test_summary_report workbook
 
-Source workbook: `outputs/deliverables/requirement_3_physical_testing/test_cases/test_summary_report.xlsx`
+Source workbook: `requirement_3_physical_testing/test_cases/test_summary_report.xlsx`
 
 ## Sheet: status
 
@@ -8,7 +8,7 @@ Source workbook: `outputs/deliverables/requirement_3_physical_testing/test_cases
 | --- | --- |
 | Workbook title | Requirement 3 Test Summary Report |
 | Requirement | R3 |
-| Source template | inputs/testcase-templates/testcase-template.xls |
+| Source template | instructor-provided testcase-template.xls |
 | IS AI-GENERATED | YES (Codex-assisted workbook update) |
 | REVIEWED | yes (content consistency reviewed) |
 | ACCEPTED | yes (included in final Requirement 3 package) |
@@ -60,4 +60,5 @@ Source workbook: `outputs/deliverables/requirement_3_physical_testing/test_cases
 | Voice narration present | MISSING | Codex | No execution videos provided |
 | Execution evidence linked to test cases | PARTIAL | Codex | Evidence IDs exist; video evidence missing |
 | Ready for final report | NO | Codex | Video requirement remains unmet |
+
 

@@ -1,6 +1,6 @@
 # self_assessment workbook
 
-Source workbook: `outputs/deliverables/reports/self_assessment.xlsx`
+Source workbook: `reports/self_assessment.xlsx`
 
 ## Sheet: Self Assessment
 
@@ -13,3 +13,4 @@ Source workbook: `outputs/deliverables/reports/self_assessment.xlsx`
 | AI-2 | AI Critique 200-300 words +<br>[AI-03] Disclosure attached | 4 | 4 |
 | AI-3 | [AI-05] Checklist signed + anti-cheat artifacts | 3 | 3 |
 | | Total | 100 | 95 |
+

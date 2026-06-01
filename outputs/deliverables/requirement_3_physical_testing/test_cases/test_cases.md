@@ -1,6 +1,6 @@
 # test_cases workbook
 
-Source workbook: `outputs/deliverables/requirement_3_physical_testing/test_cases/test_cases.xlsx`
+Source workbook: `requirement_3_physical_testing/test_cases/test_cases.xlsx`
 
 ## Sheet: status
 
@@ -8,7 +8,7 @@ Source workbook: `outputs/deliverables/requirement_3_physical_testing/test_cases
 | --- | --- |
 | Workbook title | Requirement 3 Test Cases |
 | Requirement | R3 |
-| Source template | inputs/testcase-templates/testcase-template.xls |
+| Source template | instructor-provided testcase-template.xls |
 | IS AI-GENERATED | YES (Codex-assisted workbook update) |
 | REVIEWED | yes (content consistency reviewed) |
 | ACCEPTED | yes (included in final Requirement 3 package) |
@@ -178,4 +178,5 @@ Source workbook: `outputs/deliverables/requirement_3_physical_testing/test_cases
 | Physical and ergonomic | Fold/unfold while audio is playing | Student-found AI-missed edge case | Verify whether the foldable hinge or internal wiring causes audio interruption while the headset is playing sound. | Audio should continue without crackle, one-side channel loss, or disconnection during normal careful folding/unfolding movement. | Targets foldable headset hinge behavior missed by AI candidate generation | true |
 | Physical and ergonomic | Rapid open-close stress | Student-found AI-missed edge case | Check hinge robustness and audio/device stability under repeated rapid but normal open-close handling. | The hinge should remain intact, movement should remain smooth, and audio should still work after rapid normal handling. | Targets foldable headset hinge behavior missed by AI candidate generation | true |
 | Physical and ergonomic | One-side fold pressure imbalance | Student-found AI-missed edge case | Check whether folding or pressure on only one side causes imbalance, discomfort, hinge looseness, or one-channel audio issues. | One-sided folding pressure should not create permanent imbalance, hinge misalignment, unusual discomfort, or left/right audio failure. | Targets foldable headset hinge behavior missed by AI candidate generation | true |
+
 

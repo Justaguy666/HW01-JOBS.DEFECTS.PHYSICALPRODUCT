@@ -1,6 +1,6 @@
 # defect_traceability workbook
 
-Source workbook: `outputs/deliverables/requirement_3_physical_testing/discovered_defects/defect_traceability.xlsx`
+Source workbook: `requirement_3_physical_testing/discovered_defects/defect_traceability.xlsx`
 
 ## Sheet: status
 
@@ -48,3 +48,4 @@ Source workbook: `outputs/deliverables/requirement_3_physical_testing/discovered
 | Severity reviewed | DONE | All severities set to MEDIUM |
 | Retest/follow-up recorded | DONE | Follow-up included in Markdown defect files |
 | Ready for final report | PARTIAL | Defects ready; video evidence missing |
+

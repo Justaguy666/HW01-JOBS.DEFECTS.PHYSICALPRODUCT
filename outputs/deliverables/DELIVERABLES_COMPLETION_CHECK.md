@@ -2,24 +2,24 @@
 
 Checked against:
 
-- `inputs/requirements/hw01-requirements.pdf`
-- `inputs/requirements/homeword-policies.pdf`
-- `inputs/ai-templates/[AI-02] - FIT@HCMUS - AI Audit Report Template.pdf`
-- `inputs/ai-templates/[AI-03] - FIT@HCMUS - AI Disclosure Statement Template.pdf`
-- `inputs/ai-templates/[AI-05] - FIT@HCMUS - AI Privacy and Compliance Checklist.pdf`
+- instructor-provided `hw01-requirements.pdf`
+- instructor-provided `homeword-policies.pdf`
+- `appendix/[AI-02] - FIT@HCMUS - AI Audit Report_En.docx`
+- `appendix/[AI-03] - FIT@HCMUS - AI Disclosure Form_En.docx`
+- `appendix/[AI-05] - FIT@HCMUS - AI Privacy Checklist_En.docx`
 
 ## Summary
 
-The deliverables are not complete yet. Requirement 1, Requirement 2, and most Requirement 3 working files are present, but the final submission package is still missing the main report, AI compliance attachments, prompt log, PDF export, and ZIP package. Requirement 3 execution videos are intentionally skipped per `execution_videos/youtube_links.txt`.
+The deliverables are not complete yet. Requirement 1, Requirement 2, and most Requirement 3 working files are present, but the final submission package is still missing completed AI compliance content, prompt log, PDF export, and ZIP package. Requirement 3 execution videos are intentionally skipped per `execution_videos/youtube_links.txt`.
 
 ## Current Triage
 
 | No. | Item | Status | Note |
 | --- | --- | --- | --- |
-| 1 | Main report / PDF content | TODO | `outputs/deliverables/reports/hw01_report.md` is empty. |
-| 2 | Prompt log | TODO | `outputs/deliverables/appendix/prompt_log.md` is empty. |
-| 3 | AI-02, AI-03, AI-05 attachments | TODO | Required AI compliance deliverables are not present yet. |
-| 4 | AI critique and AI accuracy ratio | TODO | Must be added to the main report. |
+| 1 | Main report content | DONE | `reports/main_report.md` has been drafted. |
+| 2 | Prompt log | TODO | `appendix/prompt_log.md` is empty. |
+| 3 | AI-02, AI-03, AI-05 attachments | TODO | `.docx` files are present in `appendix`; content still needs to be filled directly in those files. |
+| 4 | AI critique and AI accuracy ratio | TODO | AI critique should be kept in appendix; main report only references it. |
 | 5 | Requirement 3 execution videos | SKIP | No videos will be provided. Keep the explicit note in `youtube_links.txt`. |
 | 6 | Final PDF and ZIP package | LAST | Do after all report and compliance content is finalized. |
 | 7 | Manual screenshot/evidence check | PASS | Treated as passed per user decision. |
@@ -28,10 +28,10 @@ The deliverables are not complete yet. Requirement 1, Requirement 2, and most Re
 
 These `.xlsx` files now have `.md` copies:
 
-- `outputs/deliverables/reports/self_assessment.md`
-- `outputs/deliverables/requirement_3_physical_testing/discovered_defects/defect_traceability.md`
-- `outputs/deliverables/requirement_3_physical_testing/test_cases/test_cases.md`
-- `outputs/deliverables/requirement_3_physical_testing/test_cases/test_summary_report.md`
+- `reports/self_assessment.md`
+- `requirement_3_physical_testing/discovered_defects/defect_traceability.md`
+- `requirement_3_physical_testing/test_cases/test_cases.md`
+- `requirement_3_physical_testing/test_cases/test_summary_report.md`
 
 Workbook formula/error scan found no cell error entries in the updated Requirement 3 workbooks.
 
@@ -39,7 +39,7 @@ Workbook formula/error scan found no cell error entries in the updated Requireme
 
 Current state: mostly present.
 
-- 10 job folders are present under `outputs/deliverables/requirement_1_job_market`.
+- 10 job folders are present under `requirement_1_job_market`.
 - Each job folder appears to include job description, extracted requirements, AI impact analysis, source link, and screenshot.
 - At least 3 postings appear to mention AI, LLM, or AI-assisted automation.
 
@@ -52,7 +52,7 @@ Remaining checks:
 
 Current state: mostly present.
 
-- 20 defect folders are present under `outputs/deliverables/requirement_2_software_defects`.
+- 20 defect folders are present under `requirement_2_software_defects`.
 - The defects appear to be within the 2022-2026 window.
 - At least 5 defects are AI/LLM-related.
 - Defect files include description, severity, consequence, solution/fix, and AI bias/hallucination observations.
@@ -88,24 +88,24 @@ Remaining checks:
 
 Current state: TODO.
 
-- `outputs/deliverables/appendix/prompt_log.md` is empty.
-- AI Audit Report required by `[AI-02]` is not present in deliverables.
-- AI Disclosure Statement required by `[AI-03]` is not present in deliverables.
-- AI Privacy and Compliance Checklist required by `[AI-05]` is not present in deliverables.
-- The required 200-300 word AI critique is not present in the main report because the main report is empty.
-- AI accuracy ratio is not present in the main report because the main report is empty.
+- `appendix/prompt_log.md` is empty.
+- AI Audit Report `.docx` is present as `appendix/[AI-02] - FIT@HCMUS - AI Audit Report_En.docx`, but still needs to be completed directly in the file.
+- AI Disclosure Statement `.docx` is present as `appendix/[AI-03] - FIT@HCMUS - AI Disclosure Form_En.docx`, but still needs to be completed directly in the file.
+- AI Privacy Checklist `.docx` is present as `appendix/[AI-05] - FIT@HCMUS - AI Privacy Checklist_En.docx`, but still needs to be completed directly in the file.
+- The required 200-300 word AI critique should be stored as an appendix item and referenced from the main report.
+- AI accuracy ratio should be recorded in the appendix/compliance material and referenced from the main report.
 
 Remaining work:
 
 - Fill the prompt log for allowed prompts. Do not add the excluded Requirement 3 enrichment prompt because the user explicitly asked not to log it.
-- Complete AI-02, AI-03, and AI-05 using the provided templates.
-- Add the AI critique, disclosure, AI accuracy ratio, and audit summary into the final report.
+- Complete AI-02, AI-03, and AI-05 directly in the `.docx` files in `appendix`.
+- Add the AI critique and AI accuracy ratio as appendix material; keep only a reference/note in the main report.
 
 ## Final Report and Submission Package
 
-Current state: TODO / LAST.
+Current state: report drafted / PDF and ZIP last.
 
-- `outputs/deliverables/reports/hw01_report.md` exists but is empty.
+- `reports/main_report.md` has been drafted.
 - Main report PDF is not present and should be done last.
 - Submission ZIP is not present and should be done last.
 - The required ZIP naming format has not been finalized.
@@ -113,8 +113,8 @@ Current state: TODO / LAST.
 
 Remaining work:
 
-- Write the main report with sections for R1, R2, R3, AI Audit Report, AI Critique, Mandatory Disclosure, and self-assessment.
 - Export the main report to PDF.
 - Add or reference required appendices and artifacts.
 - Create the final ZIP with the required name after student ID and self-assessed grade are confirmed.
 - Verify repository commits are clear and aligned with the homework policy.
+
