@@ -1,0 +1,23 @@
+Requirement 3 execution video status
+
+Note: no YouTube execution videos are provided in this submission package. This means the HW01 requirement for at least 5 unlisted execution videos with voice narration is not satisfied unless the instructor accepts an exception.
+
+| Test Case | Evidence ID | Video URL | Result | Defect Link |
+| --- | --- | --- | --- | --- |
+| TC-001 | EV-R3-001 | N/A | PASS | N/A |
+| TC-002 | EV-R3-002 | N/A | FAIL | https://github.com/Justaguy666/HW01-JOBS.DEFECTS.PHYSICALPRODUCT/issues/1 |
+| TC-003 | EV-R3-003 | N/A | PASS | N/A |
+| TC-004 | EV-R3-004 | N/A | PASS | N/A |
+| TC-005 | EV-R3-005 | N/A | FAIL | https://github.com/Justaguy666/HW01-JOBS.DEFECTS.PHYSICALPRODUCT/issues/2 |
+| TC-006 | EV-R3-006 | N/A | PASS | N/A |
+| TC-007 | EV-R3-007 | N/A | PASS | N/A |
+| TC-008 | EV-R3-008 | N/A | FAIL | https://github.com/Justaguy666/HW01-JOBS.DEFECTS.PHYSICALPRODUCT/issues/3 |
+| TC-009 | EV-R3-009 | N/A | FAIL | https://github.com/Justaguy666/HW01-JOBS.DEFECTS.PHYSICALPRODUCT/issues/4 |
+| TC-010 | EV-R3-010 | N/A | PASS | N/A |
+| TC-011 | EV-R3-011 | N/A | PASS | N/A |
+| TC-012 | EV-R3-012 | N/A | PASS | N/A |
+| TC-013 | EV-R3-013 | N/A | PASS | N/A |
+| TC-014 | EV-R3-014 | N/A | FAIL | https://github.com/Justaguy666/HW01-JOBS.DEFECTS.PHYSICALPRODUCT/issues/5 |
+| TC-015 | EV-R3-015 | N/A | PASS | N/A |
+
+Defect-focused video evidence: not provided.

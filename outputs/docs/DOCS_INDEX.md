@@ -2,11 +2,11 @@
 
 ## Status
 
-IS AI-GENERATED: YES (Codex-assisted draft)
+IS AI-GENERATED: YES (Codex-assisted update)
 
-REVIEWED: yes (12AM40 31/05/2026 - Khoi Minh Nguyen)
+REVIEWED: no (pending human review)
 
-ACCEPTED: yes (12AM44 31/05/2026 - Khoi Minh Nguyen)
+ACCEPTED: no (pending human acceptance)
 
 ---
 
@@ -78,6 +78,7 @@ CHECKLIST.md
 
 | Template | Artifact |
 | --- | --- |
+| `COMMON_FILE_TEMPLATE.md` | Common structure for Markdown files and Excel workbooks |
 | `REPORT_STRUCTURE.md` | Main HW01 report |
 | `JOB_POSTING_TEMPLATE.md` | Requirement 1 job posting analysis |
 | `SOFTWARE_DEFECT_ANALYSIS_TEMPLATE.md` | Requirement 2 software defect analysis |
