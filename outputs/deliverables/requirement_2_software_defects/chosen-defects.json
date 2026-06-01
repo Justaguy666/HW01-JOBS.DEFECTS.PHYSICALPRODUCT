@@ -1,0 +1,762 @@
+[
+    {
+        "paperId":  "journals/ese/TambonNAKA24",
+        "title":  "Silent bugs in deep learning frameworks: an empirical study of Keras and TensorFlow",
+        "year":  2024,
+        "venue":  "ESE",
+        "domain":  [
+                       "Machine Learning"
+                   ],
+        "type":  [
+                     "Functional",
+                     "Performance"
+                 ],
+        "lang":  [
+                     "C/C++",
+                     "Python"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/amin-nikanjam/SilentBugsInTensorFlowKeras"
+                          }
+                      ],
+        "url":  "https://link.springer.com/article/10.1007/s10664-023-10389-6"
+    },
+    {
+        "paperId":  "journals/ese/MorovatiNKJ23",
+        "title":  "Bugs in machine learning-based systems: a faultload benchmark.",
+        "year":  2023,
+        "venue":  "ESE",
+        "domain":  [
+                       "Machine Learning"
+                   ],
+        "type":  [
+                     "Functional"
+                 ],
+        "lang":  [
+                     "Python"
+                 ],
+        "presentation":  [
+                             "Project"
+                         ],
+        "source":  [
+                       "Q\u0026A Forums",
+                       "Version Control"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "zenodo"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "http://defect4aitesting.soccerlab.polymtl.ca/"
+                          },
+                          {
+                              "type":  "live",
+                              "href":  "https://zenodo.org/records/8376824"
+                          }
+                      ],
+        "url":  "https://link.springer.com/article/10.1007/s10664-023-10291-1"
+    },
+    {
+        "paperId":  "conf/icsm/HoMI0SKNR23",
+        "title":  "An Empirical Study on Bugs Inside PyTorch: A Replication Study",
+        "year":  2023,
+        "venue":  "ICSME",
+        "domain":  [
+                       "Machine Learning"
+                   ],
+        "type":  [
+                     "Functional",
+                     "Performance"
+                 ],
+        "lang":  [
+                     "C/C++",
+                     "Python"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/datasetsharing/pytorchbugdataset"
+                          }
+                      ],
+        "url":  "https://ieeexplore.ieee.org/abstract/document/10336350/"
+    },
+    {
+        "paperId":  "conf/icse/GuanXLLB23",
+        "title":  "A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization.",
+        "year":  2023,
+        "venue":  "ICSE",
+        "domain":  [
+                       "Machine Learning"
+                   ],
+        "type":  [
+                     "Functional",
+                     "Performance"
+                 ],
+        "lang":  [
+                     "C/C++",
+                     "Python"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/MOB2022/MOB-dataset/tree/master"
+                          }
+                      ],
+        "url":  "https://ieeexplore.ieee.org/abstract/document/10172690/"
+    },
+    {
+        "paperId":  "conf/icse/LiangLSSFD22",
+        "title":  "gDefects4DL: A Dataset of General Real-World Deep Learning Program Defects.",
+        "year":  2022,
+        "venue":  "ICSE",
+        "domain":  [
+                       "Machine Learning"
+                   ],
+        "type":  [
+                     "Functional"
+                 ],
+        "lang":  [
+                     "Python"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "clouddrive",
+                        "github",
+                        "host-deadlink"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/llmhyy/defects4dl"
+                          },
+                          {
+                              "type":  "live",
+                              "href":  "https://hub.docker.com/u/defects4dl"
+                          },
+                          {
+                              "type":  "live",
+                              "href":  "https://docs.google.com/spreadsheets/d/1uLxWENPkzYmLDZ4wGNN_Dd--N6wrbNCGnSuYvq_08IU/edit?pli=1#gid=1153330528"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3510454.3516826"
+    },
+    {
+        "paperId":  "conf/acl/TianYQCLPWHL0024",
+        "title":  "DebugBench: Evaluating Debugging Capability of Large Language Models",
+        "year":  2024,
+        "venue":  "ACL",
+        "domain":  [
+                       "General"
+                   ],
+        "type":  [
+                     "Functional"
+                 ],
+        "lang":  [
+                     "C/C++",
+                     "Java",
+                     "Python"
+                 ],
+        "presentation":  [
+                             "Framework"
+                         ],
+        "source":  [
+                       "Coding Assignments",
+                       "Synthesis"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/thunlp/DebugBench"
+                          }
+                      ],
+        "url":  "https://arxiv.org/abs/2401.04621"
+    },
+    {
+        "paperId":  "conf/iclr/JimenezYWYPPN24",
+        "title":  "SWE-bench: Can Language Models Resolve Real-world Github Issues?",
+        "year":  2024,
+        "venue":  "ICLR",
+        "domain":  [
+                       "General"
+                   ],
+        "type":  [
+                     "Functional"
+                 ],
+        "lang":  [
+                     "Python"
+                 ],
+        "presentation":  [
+                             "Framework"
+                         ],
+        "source":  [
+                       "Issue Reports"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/swe-bench/SWE-bench"
+                          }
+                      ],
+        "url":  "https://arxiv.org/abs/2310.06770"
+    },
+    {
+        "paperId":  "conf/kbse/RuanLZL24",
+        "title":  "VulZoo: A Comprehensive Vulnerability Intelligence Dataset.",
+        "year":  2024,
+        "venue":  "ASE",
+        "domain":  [
+                       "General"
+                   ],
+        "type":  [
+                     "Security"
+                 ],
+        "lang":  [
+
+                 ],
+        "presentation":  [
+                             "Framework"
+                         ],
+        "source":  [
+                       "Vulnerability Datasets"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/NUS-Curiosity/VulZoo"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3691620.3695345"
+    },
+    {
+        "paperId":  "conf/msr/NiSYZW24",
+        "title":  "MegaVul: A C/C++ Vulnerability Dataset with Comprehensive Code Representations.",
+        "year":  2024,
+        "venue":  "MSR",
+        "domain":  [
+                       "General"
+                   ],
+        "type":  [
+                     "Security"
+                 ],
+        "lang":  [
+
+                 ],
+        "presentation":  [
+                             "Framework"
+                         ],
+        "source":  [
+                       "Vulnerability Datasets"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/Icyrockton/MegaVul"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3643991.3644886"
+    },
+    {
+        "paperId":  "conf/msr/BuiSF22",
+        "title":  "Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques.",
+        "year":  2022,
+        "venue":  "MSR",
+        "domain":  [
+                       "General"
+                   ],
+        "type":  [
+                     "Security"
+                 ],
+        "lang":  [
+                     "Java"
+                 ],
+        "presentation":  [
+                             "Framework"
+                         ],
+        "source":  [
+                       "Other Datasets",
+                       "Version Control"
+                   ],
+        "availability":  [
+                             "evolving"
+                         ],
+        "hosting":  [
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/bqcuong/vul4j"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3524842.3528482"
+    },
+    {
+        "paperId":  "conf/raid/0001DACW23",
+        "title":  "DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection.",
+        "year":  2023,
+        "venue":  "RAID",
+        "domain":  [
+                       "General"
+                   ],
+        "type":  [
+                     "Security"
+                 ],
+        "lang":  [
+                     "C/C++"
+                 ],
+        "presentation":  [
+                             "Snippet"
+                         ],
+        "source":  [
+                       "Version Control"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "clouddrive"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/wagner-group/diversevul"
+                          },
+                          {
+                              "type":  "live",
+                              "href":  "https://drive.google.com/file/d/12IWKhmLhq7qn5B_iXgn5YerOQtkH-6RG/view"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3607199.3607242"
+    },
+    {
+        "paperId":  "conf/icse/WangHGWC024",
+        "title":  "A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities.",
+        "year":  2024,
+        "venue":  "ICSE",
+        "domain":  [
+                       "General"
+                   ],
+        "type":  [
+                     "Security"
+                 ],
+        "lang":  [
+                     "C/C++",
+                     "Java",
+                     "Python"
+                 ],
+        "presentation":  [
+                             "Snippet"
+                         ],
+        "source":  [
+                       "Version Control",
+                       "Vulnerability Datasets"
+                   ],
+        "availability":  [
+                             "evolving"
+                         ],
+        "hosting":  [
+                        "clouddrive",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/Eshe0922/ReposVul"
+                          }
+                      ],
+        "url":  "https://openreview.net/forum?id=sS7htMUWpV"
+    },
+    {
+        "paperId":  "conf/issta/XiongX0SWWP0023",
+        "title":  "An Empirical Study of Functional Bugs in Android Apps.",
+        "year":  2023,
+        "venue":  "ISSTA",
+        "domain":  [
+                       "Mobile Apps"
+                   ],
+        "type":  [
+                     "Functional"
+                 ],
+        "lang":  [
+                     "Java",
+                     "Kotlin"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "clouddrive",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/Android-Functional-bugs-study/home"
+                          },
+                          {
+                              "type":  "live",
+                              "href":  "https://onedrive.live.com/?authkey=%21APo1oKkK1QLui5c\u0026id=B12B40F95B677EA1%21298\u0026cid=B12B40F95B677EA1"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3597926.3598138"
+    },
+    {
+        "paperId":  "conf/kbse/DasAM24",
+        "title":  "Taxonomy of Security-related Issues in Android Apps: An Empirical Study.",
+        "year":  2024,
+        "venue":  "ASE",
+        "domain":  [
+                       "Mobile Apps"
+                   ],
+        "type":  [
+                     "Security"
+                 ],
+        "lang":  [
+                     "Java"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "zenodo"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://zenodo.org/records/7716400#.ZAssAHZBxPY"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3695750.3695824"
+    },
+    {
+        "paperId":  "journals/pacmpl/DrososSAM024",
+        "title":  "When Your Infrastructure Is a Buggy Program: Understanding Faults in Infrastructure as Code Ecosystems",
+        "year":  2024,
+        "venue":  "OOPSLA",
+        "domain":  [
+                       "Cloud Computing"
+                   ],
+        "type":  [
+                     "Functional",
+                     "Performance"
+                 ],
+        "lang":  [
+                     "Python",
+                     "Ruby"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports",
+                       "Version Control"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "zenodo"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://doi.org/10.5281/zenodo.12668895"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3689799"
+    },
+    {
+        "paperId":  "conf/issta/YuXZ0LS24",
+        "title":  "Bugs in Pods: Understanding Bugs in Container Runtime Systems.",
+        "year":  2024,
+        "venue":  "ISSTA",
+        "domain":  [
+                       "Compilers \u0026 Runtimes"
+                   ],
+        "type":  [
+                     "Functional",
+                     "Performance",
+                     "Security"
+                 ],
+        "lang":  [
+                     "C/C++",
+                     "Go"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports",
+                       "Version Control"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://sites.google.com/view/understand-bugs-in-crs"
+                          },
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/fish98/CRS_Bugs"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3650212.3680366"
+    },
+    {
+        "paperId":  "conf/issta/XuG024",
+        "title":  "An Empirical Study on Kubernetes Operator Bugs.",
+        "year":  2024,
+        "venue":  "ISSTA",
+        "domain":  [
+                       "Cloud Computing"
+                   ],
+        "type":  [
+                     "Functional"
+                 ],
+        "lang":  [
+                     "Go",
+                     "Java"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://zenodo.org/records/13340387"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3650212.3680396"
+    },
+    {
+        "paperId":  "journals/tosem/ZhangCWCLMMHL24",
+        "title":  "Characterizing and Detecting WebAssembly Runtime Bugs.",
+        "year":  2024,
+        "venue":  "TOSEM",
+        "domain":  [
+                       "Compilers \u0026 Runtimes"
+                   ],
+        "type":  [
+                     "Functional"
+                 ],
+        "lang":  [
+                     "C/C++",
+                     "Rust"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports",
+                       "Q\u0026A Forums"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/bnmcxlzd/TOSEM2023_Complementary_materials"
+                          }
+                      ],
+        "url":  "https://dl.acm.org/doi/abs/10.1145/3624743"
+    },
+    {
+        "paperId":  "journals/infsof/WangBWYGS23",
+        "title":  "An empirical study on bugs in JavaScript engines.",
+        "year":  2023,
+        "venue":  "IST",
+        "domain":  [
+                       "Compilers \u0026 Runtimes"
+                   ],
+        "type":  [
+                     "Functional"
+                 ],
+        "lang":  [
+                     "C/C++",
+                     "JavaScript"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/njuptw/Empirical-Study-V8"
+                          },
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/njuptw/Empirical-Study-SpiderMonkey"
+                          },
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/njuptw/Empirical-Study-Chakra"
+                          }
+                      ],
+        "url":  "https://www.sciencedirect.com/science/article/pii/S0950584922002142"
+    },
+    {
+        "paperId":  "conf/uss/XuLDDLWPM23",
+        "title":  "Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs.",
+        "year":  2023,
+        "venue":  "Usenix-Security",
+        "domain":  [
+                       "Compilers \u0026 Runtimes"
+                   ],
+        "type":  [
+                     "Security"
+                 ],
+        "lang":  [
+                     "C/C++"
+                 ],
+        "presentation":  [
+                             "Metadata"
+                         ],
+        "source":  [
+                       "Issue Reports"
+                   ],
+        "availability":  [
+                             "available"
+                         ],
+        "hosting":  [
+                        "available",
+                        "github"
+                    ],
+        "artifacts":  [
+                          {
+                              "type":  "live",
+                              "href":  "https://github.com/H0w1/CISB-dataset"
+                          }
+                      ],
+        "url":  "https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jianhao"
+    }
+]
