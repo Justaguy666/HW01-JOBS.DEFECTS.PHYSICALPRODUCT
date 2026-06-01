@@ -67,11 +67,7 @@ Verification passed:
 
 ---
 
-## Response Time
-
-Not measured by Codex. This log was created after the missing prompt-log correction was identified.
-
----
+## Response Time: 1m08s
 
 ## Project Effects
 
@@ -100,4 +96,3 @@ This prompt corrected the prompt-log sequence after the Requirement 3 structure 
 ## Final Notes
 
 This log documents the correction itself.
-

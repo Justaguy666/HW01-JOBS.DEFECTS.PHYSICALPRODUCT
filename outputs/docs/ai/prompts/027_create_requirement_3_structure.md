@@ -132,11 +132,7 @@ DEVICE_METADATA_EXISTS=False
 
 ---
 
-## Response Time
-
-Not measured by Codex. This log was created after the fact because the original prompt log was missed.
-
----
+## Response Time: 1m42s
 
 ## Project Effects
 

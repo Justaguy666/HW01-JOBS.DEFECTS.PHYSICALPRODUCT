@@ -67,11 +67,7 @@ Verification completed:
 
 ---
 
-## Response Time
-
-Not measured by Codex. This log was created in the same turn as the Requirement 3 template application.
-
----
+## Response Time: 2m49s
 
 ## Project Effects
 

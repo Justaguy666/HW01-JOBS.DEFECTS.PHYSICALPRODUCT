@@ -60,11 +60,7 @@ Verification completed:
 
 ---
 
-## Response Time
-
-Not measured by Codex. This log was created in the same turn as the workbook update.
-
----
+## Response Time: 1m23s
 
 ## Project Effects
 

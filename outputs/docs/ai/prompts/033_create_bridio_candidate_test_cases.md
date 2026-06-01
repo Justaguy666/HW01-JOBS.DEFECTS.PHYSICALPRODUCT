@@ -78,11 +78,7 @@ Verification completed:
 
 ---
 
-## Response Time
-
-Not measured by Codex. This log was created in the same turn as the candidate test-case workbook update.
-
----
+## Response Time: 4m56s
 
 ## Project Effects
 

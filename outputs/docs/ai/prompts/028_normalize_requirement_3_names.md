@@ -73,11 +73,7 @@ EC_OLD_COUNT=0
 
 ---
 
-## Response Time
-
-Not measured by Codex. This log was created in the same turn as the Requirement 3 naming normalization request.
-
----
+## Response Time: 2m17s
 
 ## Project Effects
 

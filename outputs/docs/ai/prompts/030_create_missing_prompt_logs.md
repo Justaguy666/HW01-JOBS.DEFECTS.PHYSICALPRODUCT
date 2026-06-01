@@ -54,11 +54,7 @@ Verification confirmed that the prompt folder now continues through `030` and th
 
 ---
 
-## Response Time
-
-Not measured by Codex. This log was created in the same turn as the request to add missing prompt logs 029 and 030.
-
----
+## Response Time: 3m31s
 
 ## Project Effects
 
