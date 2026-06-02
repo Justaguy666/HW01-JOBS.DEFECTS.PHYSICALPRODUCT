@@ -39,9 +39,3 @@ This edge case focuses on the interaction between mechanical movement and active
 | Screenshot shows AI did not generate this edge case | yes |
 | Written explanation completed | yes |
 | Linked to a test case | TC-013 |
-
----
-
-## Final Notes
-
-Linked to TC-013 and execution evidence EV-R3-013. Keep the screenshot path and related test case ID unchanged unless evidence files are renamed.

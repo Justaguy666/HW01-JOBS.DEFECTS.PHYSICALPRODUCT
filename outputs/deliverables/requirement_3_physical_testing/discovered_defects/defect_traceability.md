@@ -27,7 +27,6 @@ Source workbook: `requirement_3_physical_testing/discovered_defects/defect_trace
 | DEF-R3-004 | TC-009 | Microphone recording is low and muffled in quiet room | https://github.com/Justaguy666/HW01-JOBS.DEFECTS.PHYSICALPRODUCT/issues/4 | github_issues_screenshot.png | N/A (no video provided) | MEDIUM | FINAL | This impacts calls, online meetings, and voice messages. Severity is medium because microphone quality is a core headset function, although playback is unaffected. |
 | DEF-R3-005 | TC-014 | Right hinge becomes loose and clicks after rapid open-close cycles | https://github.com/Justaguy666/HW01-JOBS.DEFECTS.PHYSICALPRODUCT/issues/5 | github_issues_screenshot.png | N/A (no video provided) | MEDIUM | FINAL | This is a durability concern because repeated folding is expected for a portable headset. Severity is medium because function still works, but the symptom may worsen with continued use. |
 
-
 ## Sheet: traceability
 
 | Defect ID | Markdown File | Evidence Status | Report Section | Notes |
@@ -48,4 +47,3 @@ Source workbook: `requirement_3_physical_testing/discovered_defects/defect_trace
 | Severity reviewed | DONE | All severities set to MEDIUM |
 | Retest/follow-up recorded | DONE | Follow-up included in Markdown defect files |
 | Ready for final report | PARTIAL | Defects ready; video evidence missing |
-

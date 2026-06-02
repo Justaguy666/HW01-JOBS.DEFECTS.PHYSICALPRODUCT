@@ -107,21 +107,3 @@ Out of scope unless extra tools are available:
 | Execution date used in records | 2026-06-01 |
 
 The execution record covers Bluetooth setup, reconnection, range, audio playback, microphone quality, call control, charging, comfort, and hinge-related physical handling for the BRIDIO TH10.
-
----
-
-## 7. Verification Notes
-
-| Check | Result |
-| --- | --- |
-| Compared with official R3 requirement | yes |
-| Brand/model/year declared | yes |
-| Serial number masked | Not found |
-| Device photo available | verified |
-| Ready for final report | yes |
-
----
-
-## Final Notes
-
-Requirement 3 now has a complete execution-style dataset for report drafting: 15 test case outcomes, 5 defect records, and traceability across Markdown and workbook artifacts.

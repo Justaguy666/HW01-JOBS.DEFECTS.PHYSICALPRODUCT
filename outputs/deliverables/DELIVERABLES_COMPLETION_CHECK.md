@@ -10,18 +10,18 @@ Checked against:
 
 ## Summary
 
-The deliverables are not complete yet. Requirement 1, Requirement 2, Requirement 3 working files, and the prompt log are present, but the final submission package is still missing completed AI compliance content, PDF export, and ZIP package. Requirement 3 execution videos are intentionally skipped per `execution_videos/youtube_links.txt`.
+The deliverables are nearly complete. Requirement 1, Requirement 2, Requirement 3 working files, prompt log, main report PDF, AI compliance DOCX forms, and AI critique appendix are present. The final submission package is still missing the final ZIP package. Requirement 3 execution videos are intentionally skipped per `execution_videos/youtube_links.txt`.
 
 ## Current Triage
 
 | No. | Item | Status | Note |
 | --- | --- | --- | --- |
 | 1 | Main report content | DONE | `reports/main_report.md` has been drafted. |
-| 2 | Prompt log | DONE | `appendix/prompt_log.md` contains 36 prompt records with prompt, response, and response time. |
-| 3 | AI-02, AI-03, AI-05 attachments | TODO | `.docx` files are present in `appendix`; content still needs to be filled directly in those files. |
-| 4 | AI critique and AI accuracy ratio | TODO | AI critique should be kept in appendix; main report only references it. |
+| 2 | Prompt log | DONE | `appendix/prompt_log.md` contains 36 prompt records with prompt, response, and original timestamp. |
+| 3 | AI-02, AI-03, AI-05 attachments | DONE | `.docx` files are completed directly in `appendix`. |
+| 4 | AI critique and AI accuracy ratio | DONE | `appendix/ai_critique.md` contains the critique and accuracy ratio; main report references the appendix. |
 | 5 | Requirement 3 execution videos | SKIP | No videos will be provided. Keep the explicit note in `youtube_links.txt`. |
-| 6 | Final PDF and ZIP package | LAST | Do after all report and compliance content is finalized. |
+| 6 | Final ZIP package | LAST | Main report PDF exists; create ZIP after AI appendix content is finalized. |
 | 7 | Manual screenshot/evidence check | PASS | Treated as passed per user decision. |
 
 ## Generated Markdown Copies of Workbooks
@@ -31,7 +31,8 @@ These `.xlsx` files now have `.md` copies:
 - `reports/self_assessment.md`
 - `requirement_3_physical_testing/discovered_defects/defect_traceability.md`
 - `requirement_3_physical_testing/test_cases/test_cases.md`
-- `requirement_3_physical_testing/test_cases/test_summary_report.md`
+
+Note: `requirement_3_physical_testing/test_cases/test_summary_report.xlsx` remains available as a workbook artifact; no separate Markdown export with that exact filename is present.
 
 Workbook formula/error scan found no cell error entries in the updated Requirement 3 workbooks.
 
@@ -86,34 +87,31 @@ Remaining checks:
 
 ## AI Compliance Deliverables
 
-Current state: TODO.
+Current state: complete.
 
-- `appendix/prompt_log.md` contains 36 prompt records with prompt, response, and response time.
-- AI Audit Report `.docx` is present as `appendix/[AI-02] - FIT@HCMUS - AI Audit Report_En.docx`, but still needs to be completed directly in the file.
-- AI Disclosure Statement `.docx` is present as `appendix/[AI-03] - FIT@HCMUS - AI Disclosure Form_En.docx`, but still needs to be completed directly in the file.
-- AI Privacy Checklist `.docx` is present as `appendix/[AI-05] - FIT@HCMUS - AI Privacy Checklist_En.docx`, but still needs to be completed directly in the file.
-- The required 200-300 word AI critique should be stored as an appendix item and referenced from the main report.
-- AI accuracy ratio should be recorded in the appendix/compliance material and referenced from the main report.
+- `appendix/prompt_log.md` contains 36 prompt records with prompt, response, and original timestamp.
+- AI Audit Report `.docx` is completed as `appendix/[AI-02] - FIT@HCMUS - AI Audit Report_En.docx`.
+- AI Disclosure Statement `.docx` is completed as `appendix/[AI-03] - FIT@HCMUS - AI Disclosure Form_En.docx`.
+- AI Privacy Checklist `.docx` is completed as `appendix/[AI-05] - FIT@HCMUS - AI Privacy Checklist_En.docx`.
+- The required 200-300 word AI critique is stored as `appendix/ai_critique.md` and referenced from the main report.
+- AI accuracy ratio is recorded in `appendix/ai_critique.md` and referenced from the main report.
 
 Remaining work:
 
-- Complete AI-02, AI-03, and AI-05 directly in the `.docx` files in `appendix`.
-- Add the AI critique and AI accuracy ratio as appendix material; keep only a reference/note in the main report.
+- None for AI compliance content.
 
 ## Final Report and Submission Package
 
-Current state: report drafted / PDF and ZIP last.
+Current state: report drafted / PDF exported / ZIP last.
 
 - `reports/main_report.md` has been drafted.
-- Main report PDF is not present and should be done last.
+- `reports/main_report.pdf` is present.
 - Submission ZIP is not present and should be done last.
 - The required ZIP naming format has not been finalized.
 - Git history/commit-message evidence has not been checked.
 
 Remaining work:
 
-- Export the main report to PDF.
-- Add or reference required appendices and artifacts.
 - Create the final ZIP with the required name after student ID and self-assessed grade are confirmed.
 - Verify repository commits are clear and aligned with the homework policy.
 

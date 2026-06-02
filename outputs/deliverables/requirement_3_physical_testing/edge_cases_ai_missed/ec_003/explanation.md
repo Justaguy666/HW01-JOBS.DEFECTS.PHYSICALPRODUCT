@@ -39,9 +39,3 @@ This edge case depends on asymmetric physical stress, which is easy to overlook 
 | Screenshot shows AI did not generate this edge case | yes |
 | Written explanation completed | yes |
 | Linked to a test case | TC-015 |
-
----
-
-## Final Notes
-
-Linked to TC-015 and execution evidence EV-R3-015. Keep the screenshot path and related test case ID unchanged unless evidence files are renamed.

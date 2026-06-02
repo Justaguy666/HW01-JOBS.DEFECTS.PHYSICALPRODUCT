@@ -17,7 +17,6 @@ Source workbook: `requirement_3_physical_testing/test_cases/test_cases.xlsx`
 | Ready for report | yes |
 | Notes | Execution-style results, verdicts, evidence IDs, and defect references are completed for all 15 Requirement 3 test cases. |
 
-
 ## Sheet: test_cases
 
 | TC ID | Title | Objective | Input | Steps | Expected Result | Actual Result | Verdict | Edge Case AI Missed | Evidence | GitHub Issue | Status |
@@ -38,7 +37,6 @@ Source workbook: `requirement_3_physical_testing/test_cases/test_cases.xlsx`
 | TC-014 | Rapid open-close stress | Check hinge robustness and audio/device stability under repeated rapid but normal open-close handling. | Device under test: BRIDIO TH10; Mechanical cycles: 20 open-close cycles; Mechanical speed: Faster than normal, but not forced; Post-check: Power on and audio playback | 1. Inspect hinge condition before test.<br>2. Open and close the foldable hinge 20 times at a faster-than-normal but non-forced pace.<br>3. Check for looseness, clicking, cracks, or resistance.<br>4. Power on and play audio after the cycles.<br>5. Record any physical or functional change. | The hinge should remain intact, movement should remain smooth, and audio should still work after rapid normal handling. | Recorded 2026-06-01 22:32 ICT. After 20 rapid but non-forced open-close cycles, the right hinge developed a light clicking sound and felt looser than the left hinge. Audio still worked, but the hinge no longer felt symmetric during folding. | FAIL | yes | EV-R3-014; N/A (no video provided) | https://github.com/Justaguy666/HW01-JOBS.DEFECTS.PHYSICALPRODUCT/issues/5 | FINAL |
 | TC-015 | One-side fold pressure imbalance | Check whether folding or pressure on only one side causes imbalance, discomfort, hinge looseness, or one-channel audio issues. | Device under test: BRIDIO TH10; Playback mode: Continuous audio playback; Mechanical action: One-side fold or pressure; Sides tested: Left side and right side | 1. Wear or hold the headset in normal orientation.<br>2. Apply normal folding pressure to only the left side and release.<br>3. Repeat on only the right side.<br>4. Play audio and compare left/right sound after each side action.<br>5. Inspect hinge alignment and wearing pressure balance. | One-sided folding pressure should not create permanent imbalance, hinge misalignment, unusual discomfort, or left/right audio failure. | Recorded 2026-06-01 22:40 ICT. Applying normal one-side fold pressure to the left and right sides did not create permanent imbalance. The headset returned to its original shape and left/right audio stayed even after release. | PASS | yes | EV-R3-015; N/A (no video provided) | N/A | FINAL |
 
-
 ## Sheet: summary
 
 | Metric | Value |
@@ -50,7 +48,6 @@ Source workbook: `requirement_3_physical_testing/test_cases/test_cases.xlsx`
 | Blocked | 0 |
 | AI-missed edge cases | 3 |
 | Chosen candidate cases | 12 |
-
 
 ## Sheet: traceability
 
@@ -72,18 +69,16 @@ Source workbook: `requirement_3_physical_testing/test_cases/test_cases.xlsx`
 | TC-014 | test_cases/tc_014.md | Student-found AI-missed edge case | EV-R3-014 | N/A (no video provided) | https://github.com/Justaguy666/HW01-JOBS.DEFECTS.PHYSICALPRODUCT/issues/5 | Requirement 3 | Mechanical symptom appeared after repeated rapid handling, not during slow normal folding. |
 | TC-015 | test_cases/tc_015.md | Student-found AI-missed edge case | EV-R3-015 | N/A (no video provided) | N/A | Requirement 3 | Temporary pressure difference disappeared after release. |
 
-
 ## Sheet: review
 
-| Check Item | Status | Reviewer | Notes |
+| Check Item | Status | Notes |
 | --- | --- | --- | --- |
-| 15 test cases exist | DONE | Codex | TC-001 through TC-015 present |
-| At least 5 executed tests | DONE | Codex | 15 execution records completed |
-| At least 5 video links | MISSING | Codex | No YouTube execution video URLs provided |
-| At least 3 AI-missed edge cases | DONE | Codex | EC-001 through EC-003 linked |
-| Evidence linked | PARTIAL | Codex | GitHub issues linked; execution videos missing |
-| Ready for final report | NO | Codex | Video requirement remains unmet |
-
+| 15 test cases exist | DONE | TC-001 through TC-015 present |
+| At least 5 executed tests | DONE | 15 execution records completed |
+| At least 5 video links | MISSING| No YouTube execution video URLs provided |
+| At least 3 AI-missed edge cases | DONE | EC-001 through EC-003 linked |
+| Evidence linked | PARTIAL | GitHub issues linked; execution videos missing |
+| Ready for final report | NO | Video requirement remains unmet |
 
 ## Sheet: candidate_test_cases
 
@@ -178,5 +173,4 @@ Source workbook: `requirement_3_physical_testing/test_cases/test_cases.xlsx`
 | Physical and ergonomic | Fold/unfold while audio is playing | Student-found AI-missed edge case | Verify whether the foldable hinge or internal wiring causes audio interruption while the headset is playing sound. | Audio should continue without crackle, one-side channel loss, or disconnection during normal careful folding/unfolding movement. | Targets foldable headset hinge behavior missed by AI candidate generation | true |
 | Physical and ergonomic | Rapid open-close stress | Student-found AI-missed edge case | Check hinge robustness and audio/device stability under repeated rapid but normal open-close handling. | The hinge should remain intact, movement should remain smooth, and audio should still work after rapid normal handling. | Targets foldable headset hinge behavior missed by AI candidate generation | true |
 | Physical and ergonomic | One-side fold pressure imbalance | Student-found AI-missed edge case | Check whether folding or pressure on only one side causes imbalance, discomfort, hinge looseness, or one-channel audio issues. | One-sided folding pressure should not create permanent imbalance, hinge misalignment, unusual discomfort, or left/right audio failure. | Targets foldable headset hinge behavior missed by AI candidate generation | true |
-
 

@@ -39,9 +39,3 @@ AI-generated tests often include simple fold/unfold durability checks, but may n
 | Screenshot shows AI did not generate this edge case | yes |
 | Written explanation completed | yes |
 | Linked to a test case | TC-014 |
-
----
-
-## Final Notes
-
-Linked to TC-014, which produced DEF-R3-005. Keep the screenshot path and related test case ID unchanged unless evidence files are renamed.
